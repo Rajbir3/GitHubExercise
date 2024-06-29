@@ -1,4 +1,5 @@
-mylogs.log
-index2.html
-index3.html  
-222
+/mylogs.log
+/*.log
+/*.doc
+*.html
+Test2/
