@@ -1,5 +1,5 @@
 /mylogs.log
-/*.log
-/*.doc
+*.log
+*.doc
 *.html
 Test2/
